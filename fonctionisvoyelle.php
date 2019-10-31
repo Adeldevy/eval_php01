@@ -32,3 +32,8 @@ function isvoyelle($lettre)
         
   return($voyelle);         
 }
+
+// exercice n 2 : fonction qui supprime les voyelles d'une chaine (isvoyelle)
+
+function supvoyelle($lettre);
+$voyelle =0;
